@@ -1,6 +1,6 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 ## Página de programación lineal.
-![Región factible](programacion-lineal1.png "Rigión factible")
+![Región factible](programacion-lineal1.png)
 En esta página voy a mostrar las cosas magníficas que estoy aprendiendo en el 
 magnífico curso de Programación lineal.
 ### Sympy
@@ -11,3 +11,4 @@ Aprendimos a usar la biblioteca sympy.
 - [Página de Github](https://github.com)
 ## Problemas
 Maximizar $$z= x_1 + x_2$$ sujeto a $$x_1 \geq 0$$.
+<markdown.es>
