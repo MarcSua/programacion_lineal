@@ -1,9 +1,4 @@
-
-
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
-
-
-
 ## Página de programación lineal.
 En esta página voy a mostrar las cosas magníficas que estoy aprendiendo en el 
 magnífico curso de Programación lineal.
@@ -13,7 +8,5 @@ Aprendimos a usar la biblioteca sympy.
 - [Página de Python](https://www.python.org/)
 - [Página de Google](https://www.google.com)
 - [Página de Github](https://github.com)
-
 ## Problemas
-
 Maximizar $$z= x_1 + x_2$$ sujeto a $$x_1 \geq 0$$.
