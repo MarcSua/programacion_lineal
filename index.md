@@ -1,4 +1,4 @@
-<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script> 
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?c
 ## Página de programación lineal.
 En esta página voy a mostrar las cosas magníficas que estoy aprendiendo en el 
 magnífico curso de Programación lineal.
